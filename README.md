@@ -15,10 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src = "github-header-image.png"\>
+<img src = "github-header-image.png"/>
+<div align="center" id="badges">
+  <a href="www.linkedin.com/in/bhanusoni11/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://auth.geeksforgeeks.org/user/bhanusoni3/profile">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG Badge"/>
+  </a>
+  
+  <a href="https://www.hackerrank.com/bhanusoni">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
+  </a>
+  
+</div>
 
 # About Me
-<p style="text-align: justify; font-size: 40px;">Software Engineer with background in Web Development with relevant experience of internship as a front-end web developer in a startup and several projects in NodeJS, ReactJs and Django. Regaular participation in competitive coding contests on; and I have good knowledge of Data Structures and Algorithms. Participated in several hackathons and coding competitions.
+<p style="text-align: justify; font-size: 40px;">Software Engineer with background in Web Development with relevant experience of internship as a front-end web developer in a Company and several projects in NodeJS, ReactJs and Django. I have good knowledge of Data Structures and Algorithms. Participated in several hackathons.
 </p>
 
 # My Stats
@@ -27,7 +41,7 @@ Here are some ideas to get you started:
 
 <span style="align: text-right">
 
-[![Avnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoniBhanu&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/SoniBhanu/github-readme-stats)
+[![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoniBhanu&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/SoniBhanu/github-readme-stats)
 </span>
 <br>
 
