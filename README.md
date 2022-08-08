@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <img src="python.png" style="width: 50px; margin-right: 2px;"/>
 <img src="html.png" style="width: 50px; margin-right: 2px;"/>
-<img src="java.jpg" style="width: 50px; margin-right: 2px;"/>
+<img src="java.png" style="width: 50px; margin-right: 2px;"/>
 <img src="react.png" style="width: 50px; margin-right: 2px;"/>
 <img src="sql.png" style="width: 50px; margin-right: 2px;"/>
 <img src="javascript.png" style="width: 50px; margin-right: 2px;"/>
