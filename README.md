@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](Bhanu.png)
+(github-header-image.png)
 
 # About Me
 <p style="text-align: justify; font-size: 40px;">Software Engineer with background in Web Development with relevant experience of internship as a front-end web developer in a startup and several projects in NodeJS, ReactJs and Django. Regaular participation in competitive coding contests on; and I have good knowledge of Data Structures and Algorithms. Participated in several hackathons and coding competitions.
