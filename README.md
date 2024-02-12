@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 
 <img src="python.png" style="width: 50px; margin-right: 2px;"/>
 <img src="html.png" style="width: 50px; margin-right: 2px;"/>
-<img src="[https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png](https://brandslogos.com/wp-content/uploads/images/large/css-logo.png)" style="width: 50px; margin-right: 2px;"/>
-<img src="java.png" style="width: 50px; margin-right: 2px;"/>
-<img src="react.png" style="width: 50px; margin-right: 2px;"/>
+<img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" style="width: 35px; margin-right: 2px;"/>
+<img src="java.png" style="width: 50px;"/>
+<img src="react.png" style="width: 65px; margin-right: 2px;"/>
 <img src="sql.png" style="width: 50px; margin-right: 2px;"/>
 <img src="javascript.png" style="width: 50px; margin-right: 2px;"/>
 <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" style="width: 50px; margin-right: 2px;"/>
@@ -62,3 +62,4 @@ Here are some ideas to get you started:
 <img src="firebase.png" style="width: 50px; margin-right: 2px;"/>
 <img src="github.png" style="width: 50px; margin-right: 2px;"/>
 <img src="vscode.png" style="width: 50px; margin-right: 10px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" style="width: 50px; margin-right: 10px;"/>
