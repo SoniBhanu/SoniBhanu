@@ -49,10 +49,12 @@ Here are some ideas to get you started:
 
 <img src="python.png" style="width: 50px; margin-right: 2px;"/>
 <img src="html.png" style="width: 50px; margin-right: 2px;"/>
+<img src="[https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png](https://brandslogos.com/wp-content/uploads/images/large/css-logo.png)" style="width: 50px; margin-right: 2px;"/>
 <img src="java.png" style="width: 50px; margin-right: 2px;"/>
 <img src="react.png" style="width: 50px; margin-right: 2px;"/>
 <img src="sql.png" style="width: 50px; margin-right: 2px;"/>
 <img src="javascript.png" style="width: 50px; margin-right: 2px;"/>
+<img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" style="width: 50px; margin-right: 2px;"/>
 <br>
 
 # Enviornments I work with
